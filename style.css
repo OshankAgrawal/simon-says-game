@@ -1,0 +1,46 @@
+/* Center-aligns all text and elements inside the body */
+body {
+    text-align: center;
+}
+
+/* Common button styling */
+.btn {
+    height: 200px;                  /* Fixed height for buttons */
+    width: 200px;                   /* Fixed width for buttons */
+    border: 10px solid black;       /* Thick black border */
+    border-radius: 20%;             /* Rounded corners */
+    margin: 2rem;                   /* Space around each button */
+}
+
+/* Container that holds all buttons */
+.btn-container {
+    display: flex;                  /* Arrange buttons in a row */
+    justify-content: center;        /* Center buttons horizontally */
+}
+
+/* Button color variants */
+.red {
+    background-color: #d95980;      /* Soft red/pink shade */
+}
+
+.yellow {
+    background-color: #f99b45;      /* Warm yellow/orange shade */
+}
+
+.green {
+    background-color: #63aac0;      /* Light teal shade */
+}
+
+.purple {
+    background-color: #819ff9;      /* Soft purple/blue shade */
+}
+
+/* Special effect: flash animation background color */
+.flash {
+    background-color: white;        /* White background when flashing */
+}
+
+/* Special effect: user interaction flash color */
+.userFlash {
+    background-color: aqua;         /* Aqua background for user flash */
+}
