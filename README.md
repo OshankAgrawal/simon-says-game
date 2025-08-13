@@ -55,3 +55,12 @@ Test your memory skills, beat your own high score, and enjoy this timeless class
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE) – feel free to use, modify, and share with credit.
+
+---
+
+## 👨‍💻 Author
+
+**Oshank Agrawal**
+*Developer, Problem Solver, Tech Enthusiast*
+🔗 [LinkedIn](https://www.linkedin.com/in/oshankagrawal/) • 📧 [oshankagrawal@example.com](mailto:oshankagrawal@example.com)
+
