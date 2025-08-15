@@ -11,8 +11,7 @@
 
 ---
 
-## 🚀 Live Demo
-[Play the Game Here](https://oshankagrawal.github.io/simon-says-game/)
+## 🚀 Live Demo [Play the Game Here](https://oshankagrawal.github.io/simon-says-game/)
 
 ---
 
@@ -34,10 +33,10 @@
 ---
 
 ## 📂 Project Structure
-📦 simon-says-game
-┣ 📜 index.html # Main HTML file
-┣ 📜 style.css # Styling for the game
-┣ 📜 app.js # Game logic in JavaScript
+📦 simon-says-game <br>
+┣ 📜 index.html # Main HTML file <br>
+┣ 📜 style.css # Styling for the game <br>
+┣ 📜 app.js # Game logic in JavaScript <br>
 ┗ 📂 assets/ # Images or icons
 
 ---
