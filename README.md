@@ -67,5 +67,5 @@ This project is licensed under the [MIT License](LICENSE) – feel free to use, 
 
 **Oshank Agrawal**
 *Developer, Problem Solver, Tech Enthusiast*
-🔗 [LinkedIn](https://www.linkedin.com/in/oshankagrawal/) • 📧 [oshankagrawal@example.com](mailto:oshankagrawal@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/oshankagrawal/) • 📧 [E-Mail](mailto:oshankagrawal@gmail.com)
 
