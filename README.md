@@ -1,7 +1,13 @@
-# 🎮 Simon Says Game
+<h1 align="center"> 🎮 Simon Says – Interactive Memory Game</h1>
+<p align="center">
+  <img src="assets/simon-game.jpeg" alt="Simon Says Game" width="300">
+</p>
 
-A fun browser-based **Simon Says** memory game built with **HTML**, **CSS**, and **JavaScript**.  
-Test your memory skills, beat your own high score, and enjoy this timeless classic — all in your browser!
+<p align="center">
+    A fun and challenging browser-based <b>Simon Says</b> memory game, where you test your memory by repeating sequences of colors.<br>
+    Built with <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>, and deployed using <b>GitHub Pages</b>.<br>
+    Test your memory skills, beat your own high score, and enjoy this timeless classic — all in your browsers on mobile phones, desktops, and laptops.
+</p>
 
 ---
 
@@ -19,7 +25,7 @@ Test your memory skills, beat your own high score, and enjoy this timeless class
 ---
 
 ## 🕹️ How to Play
-1. **Start the Game** – Press any key to begin.
+1. **Start the Game** – Press any key to begin or click on `Start Game` button.
 2. **Watch the Sequence** – The game will flash a sequence of colors.
 3. **Repeat the Sequence** – Click the buttons in the same order.
 4. **Level Up** – Each round, the sequence gets longer.
@@ -32,7 +38,7 @@ Test your memory skills, beat your own high score, and enjoy this timeless class
 ┣ 📜 index.html # Main HTML file
 ┣ 📜 style.css # Styling for the game
 ┣ 📜 app.js # Game logic in JavaScript
-┗ 📂 assets/ # (Optional) Images or icons
+┗ 📂 assets/ # Images or icons
 
 ---
 
