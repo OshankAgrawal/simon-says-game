@@ -13,14 +13,20 @@ let highScore = 0; // highest score for this session only
 // Selecting the h2 element to update game status
 let h2 = document.querySelector("h2");
 
-// Event listener for starting the game when a key is pressed
-document.addEventListener("keypress", function () {
+function startGame() {
     if (!started) {
         console.log("Game Started");
         started = true;
-        lavelUP(); // start the first level
+        document.getElementById("startBtn").style.display = "none"; // hide start button
+        lavelUP();
     }
-});
+}
+
+// Start game on key press (desktop)
+document.addEventListener("keypress", startGame);
+
+// Start game on button click (mobile-friendly)
+document.getElementById("startBtn").addEventListener("click", startGame);
 
 // Function to flash a button for game sequence
 function gameFlash(btn) {
@@ -76,6 +82,9 @@ function checkAns(idx) {
         setTimeout(function () {
             document.querySelector("body").style.backgroundColor = "white";
         }, 200);
+
+        // Show start button again after game over
+        document.getElementById("startBtn").style.display = "inline-block";
 
         // Reset the game variables
         reset();

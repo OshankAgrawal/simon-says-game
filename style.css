@@ -44,3 +44,18 @@ body {
 .userFlash {
     background-color: aqua;         /* Aqua background for user flash */
 }
+
+#startBtn {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-top: 15px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+#startBtn:hover {
+    background-color: #45a049;
+}
