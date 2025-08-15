@@ -1,6 +1,6 @@
 <h1 align="center"> 🎮 Simon Says – Interactive Memory Game</h1>
 <p align="center">
-  <img src="assets/simon-game.jpeg" alt="Simon Says Game" width="300">
+  <img src="assets/simon-game.png" alt="Simon Says Game" width="300">
 </p>
 
 <p align="center">
